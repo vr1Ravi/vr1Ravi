@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Github_Profile](https://github.com/vr1Ravi/Github_Profile.git)
 
-- 🌱 I’m currently learning **Reactjs, Javascript**
+- 🌱 I’m currently learning **Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://v1portfolio.cyclic.app/](https://v1portfolio.cyclic.app/)
+- 👨‍💻 All of my projects are available at [https://v1portfolio.cyclic.app/](https://vr1ravi.vercel.app)
 
 - 💬 Ask me about **Reactjs, Javascript**
 
