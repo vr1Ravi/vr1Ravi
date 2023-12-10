@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vr1xr" target="blank"><img src="https://img.shields.io/twitter/follow/vr1xr?logo=twitter&style=for-the-badge" alt="vr1xr" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/vr1Ravi/Github_Profile.git)
+- 🔭 I’m currently working on [Social Media App](https://github.com/vr1Ravi/Social-Media)
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Servers**
 
 - 👨‍💻 All of my projects are available at [https://v1portfolio.cyclic.app/](https://vr1ravi.vercel.app)
 
