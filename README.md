@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Personal Projects.<br><br>👯 I’m looking to collaborate on:<br>Full-stack projects.<br><br>🌱 I’m currently learning:<br>MERN Stack.<br><br>💬 Ask me about:<br>JavaScript, React, Node.js.<br><br><br><br>
+👯 I’m looking to collaborate on:<br>Full-stack projects.<br><br>🌱 I’m currently learning:<br>MERN Stack.<br><br>💬 Ask me about:<br>JavaScript, React, Node.js.<br><br><br><br>
 
 
 ## 🌐 Socials:
